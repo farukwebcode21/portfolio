@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Clicker+Script&family=Luxurious+Roman&display=swap");
+
+/* font-family: 'Clicker Script', cursive;
+font-family: 'Luxurious Roman', cursive; */
+body {
+  font-family: "Luxurious Roman", cursive;
+  background-color: #111a28;
+  color: #fff;
+}
+.faruk {
+  font-family: "Clicker Script", cursive;
+  font-family: "Luxurious Roman", cursive;
+  font-size: 30px;
+}
+.social-icon span:first-child {
+  margin-left: 0px;
+}
+.social-icon span {
+  margin-left: 20px;
+  cursor: pointer;
+}
+.social-icon span a {
+  text-decoration: none;
+  color: #fff;
+}
+.social-icon span:hover {
+  border-bottom: 1px solid red;
+}
+.intro h1 {
+  font-size: 78px;
+  font-weight: 900;
+  margin-bottom: 25px;
+}
+.intro p {
+  font-size: 22px;
+  color: #00cf5d;
+}
+
+.intro h2 {
+  color: #00cf5d;
+  padding: 0;
+  margin: 0;
+  text-rendering: optimizeLegibility;
+  line-height: 1.1;
+}
